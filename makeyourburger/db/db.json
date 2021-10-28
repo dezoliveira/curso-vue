@@ -77,5 +77,41 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": []
+  "burgers": [
+    {
+      "nome": "Adrielle",
+      "carne": "Veggie burger",
+      "pao": 1,
+      "opcionais": [
+        "Cebola roxa",
+        "Pepino",
+        "Tomate"
+      ],
+      "status": "Solicitado",
+      "id": 1
+    },
+    {
+      "nome": "Andrés Oliveira",
+      "carne": "Maminha",
+      "pao": 1,
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cebola roxa",
+        "Tomate"
+      ],
+      "status": "Solicitado",
+      "id": 2
+    },
+    {
+      "nome": "João com Fome",
+      "carne": "Alcatra",
+      "pao": 1,
+      "opcionais": [
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 3
+    }
+  ]
 }
