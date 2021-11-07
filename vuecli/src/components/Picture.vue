@@ -16,7 +16,7 @@ export default {
   },
   data(){
     return{
-      avatar: "/img/fawkes.jpg",
+      avatar: "/img/avatar.jpg",
       descricao: "Anonimous"
     }
   },
